@@ -1,37 +1,17 @@
-<div align="center">
-
-</div>
-
----
-
 ## Учебные проекты
 
-### Семестр 3
 
-| Предмет | Язык | Репозиторий |
-|:---|:---:|:---|
-|  Дискретная математика | ![Python] | [discrete-math-3sem](https://github.com/rosesdontcry/discrete-math-3sem) |
-|  Основы программирования на Java | ![Java] | [java-basics-3sem](https://github.com/rosesdontcry/java-basics-3sem) |
-|  Технология программирования | ![Python] | [programming-technology-3sem](https://github.com/rosesdontcry/programming-technology-3sem) |
-
-### Семестр 2
-
-| Предмет | Язык | Репозиторий |
-|:---|:---:|:---|
-|  Алгоритмы и структуры данных | ![Python] | [algorithms-data-structures-2sem](https://github.com/rosesdontcry/algorithms-data-structures-2sem) |
-
-### Ошибки прошлого
-
-| Предмет | Язык | Репозиторий |
-|:---|:---:|:---|
-|  Алгоритмы и структуры данных | ![C#] | [algorithms-data-structures-fefu](https://github.com/rosesdontcry/algorithms-data-structures-fefu) |
+| Семестр | Предмет | Язык | Репозиторий |
+|:---:|:---|:---:|:---|
+| 3 | Дискретная математика | Python | [discrete-math-3sem](https://github.com/rosesdontcry/discrete-math-3sem) |
+| 3 | Основы программирования на Java | Java | [java-basics-3sem](https://github.com/rosesdontcry/java-basics-3sem) |
+| 3 | Технология программирования | Python | [programming-technology-3sem](https://github.com/rosesdontcry/programming-technology-3sem) |
+| 2 | Алгоритмы и структуры данных | Python | [algorithms-data-structures-2sem](https://github.com/rosesdontcry/algorithms-data-structures-2sem) |
+| — | Алгоритмы и структуры данных (ДВФУ) | C# | [algorithms-data-structures-fefu](https://github.com/rosesdontcry/algorithms-data-structures-fefu) |
 
 ---
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rosesdontcry&show_icons=true&theme=dark)
-
 
 ![Profile views](https://komarev.com/ghpvc/?username=rosesdontcry&color=blueviolet)
 
